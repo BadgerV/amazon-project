@@ -13,7 +13,7 @@ function  Home() {
         </div>
 
         <div className="home__row">
-            <Product title = 'The lean Startup' price = {29.99} image = 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg' rating = {5} />
+            <Product title = 'Redragon S101 Wired Gaming Keyboard and Mouse Combo RGB Backlit Gaming Keyboard with Multimedia Keys Wrist Rest and Red Backlit Gaming Mouse 3200 DPI for Windows PC Gamers' price = {29.99} image = 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg' rating = {5} />
             <Product title = 'Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 litre Glass Bowl' price = {239.99} image = 'https://m.media-amazon.com/images/I/61j17FjPhtL._AC_SY200_.jpg' rating = {4}/>
         </div>
 
